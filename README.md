@@ -1,6 +1,5 @@
 
 ## Hello World! 🌎
-<img align="right" src="https://assets5.lottiefiles.com/packages/lf20_xsnsvpbs.json" width="425"/>
 
 ### 👨‍💻 &nbsp; Quem sou eu ?
 Meu nome é Pablo, sou desenvolvedor Front-end React Junior, tenho 27 anos,atualmente sou aluno da Kenzie Academy Brasil no curso de desenvolvimento full-stack.
