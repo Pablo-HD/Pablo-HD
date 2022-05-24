@@ -2,7 +2,7 @@
 <img align="right" width="425"/>
 
 ### 👨‍💻 &nbsp; Quem sou eu ?
-Meu nome é Pablo, sou desenvolvedor Front-end React Junior, tenho 27 anos,atualmente sou aluno da Kenzie Academy Brasil no curso de desenvolvimento full-stack.
+Meu nome é Pablo, sou desenvolvedor Front-end React Junior, tenho 28 anos,atualmente sou aluno da Kenzie Academy Brasil no curso de desenvolvimento full-stack.
 Apaixonado por projetos que envolvem raciocínio lógico, criatividade e autonomia. Busco sempre o melhor, sempre me colocando no lugar de quem recebe o resultado do meu trabalho. Apaixonado em aprender e ajudar pessoas.
 
 
@@ -30,15 +30,28 @@ Apaixonado por projetos que envolvem raciocínio lógico, criatividade e autonom
 
 
 ### 📱 Contato
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)&nbsp;
-![Watsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)&nbsp;
-![hotmail](https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=Hotmaill&logoColor=white)&nbsp;
+<div> 
+  <a target="_blank" href="https://www.instagram.com/pablodamini/"><img target="_blank" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a target="_blank" href="mailto: phdamini@hotmail.com"><img target="_blank" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/pablodamini/"><img target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a target="_blank" href="https://wa.me/5548996125126"><img target="_blank" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+  
+</div>
+
+## **GitHub Estatísticas**
+
+<br/>
+<p align="left">
+   <img width="39.5%" src="https://github-readme-stats.vercel.app/api?username=Pablo-HD&show_icons=true&theme=gruvbox&hide_border=true" />
+   <img width="39.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pablo-HD&theme=gruvbox&hide_border=true" />
+   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-HD&layout=compact&theme=gruvbox" />
+</p><br>
 
 ### Ferramentas Home-Office
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 
-<!-- <p align = "center"> -->
-  <!-- <!-- <!-- <!-- <a href="https://github.com/Pablo-HD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DgSantos017&layout=compact&theme=dark"/></a>  -->
-  <!-- <!-- <!-- <!-- <!-- <a href="https://github.com/Pablo-HD"><img src="https://github-readme-stats.vercel.app/api?username=DgSantos017&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Pablo-HD"/></a> --> 
-<!-- </p>  -->
+</div>
+    <img src="https://github.com/andreyna1808/andreyna1808/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
