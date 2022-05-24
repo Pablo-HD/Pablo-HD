@@ -39,6 +39,6 @@ Apaixonado por projetos que envolvem raciocínio lógico, criatividade e autonom
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 
 <!-- <p align = "center"> -->
-  <!-- <!-- <!-- <!-- <a href="https://github.com/DgSantos017"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DgSantos017&layout=compact&theme=dark"/></a>  -->
-  <!-- <!-- <!-- <!-- <!-- <a href="https://github.com/DgSantos017"><img src="https://github-readme-stats.vercel.app/api?username=DgSantos017&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="DgSantos017"/></a> --> 
+  <!-- <!-- <!-- <!-- <a href="https://github.com/Pablo-HD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DgSantos017&layout=compact&theme=dark"/></a>  -->
+  <!-- <!-- <!-- <!-- <!-- <a href="https://github.com/Pablo-HD"><img src="https://github-readme-stats.vercel.app/api?username=DgSantos017&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Pablo-HD"/></a> --> 
 <!-- </p>  -->
