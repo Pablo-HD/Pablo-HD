@@ -1,10 +1,6 @@
 ## Hello World! 🌎
 <img align="right" width="425"/>
 
-### 👨‍💻 &nbsp; Quem sou eu ?
-Meu nome é Pablo, sou desenvolvedor Front-end React Junior, tenho 28 anos,atualmente sou aluno da Kenzie Academy Brasil no curso de desenvolvimento full-stack.
-Apaixonado por projetos que envolvem raciocínio lógico, criatividade e autonomia. Busco sempre o melhor, sempre me colocando no lugar de quem recebe o resultado do meu trabalho. Apaixonado em aprender e ajudar pessoas.
-
 
 ### Front-end Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
